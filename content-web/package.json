@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
     "applicationinsights": "^2.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "handlebars": "^4.7.7",
     "request": "^2.88.0",
     "rxjs": "~6.4.0",
